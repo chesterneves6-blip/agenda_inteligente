@@ -1,0 +1,1 @@
+git branch -M main        # nomeia a branch como main
